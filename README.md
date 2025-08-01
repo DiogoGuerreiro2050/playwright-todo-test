@@ -1,6 +1,5 @@
 # TodoMVC Playwright Test
 
-https://nodejs.org/en/download
 
 ## Install nodejs
 
