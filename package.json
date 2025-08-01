@@ -1,0 +1,13 @@
+{
+  "name": "playwright-todo-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "show-report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.3"
+  }
+}
